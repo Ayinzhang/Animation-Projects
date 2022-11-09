@@ -12,4 +12,4 @@
 >
 > ![img](https://pic3.zhimg.com/80/v2-9aef331b7ab333371831b127467230ba_720w.jpg)
 >
-> ![image](https://github.com/1242857339/GAMES103-Simulation/Bouncy-house/blob/main/image-20221013234642012.png)
+> ![image](https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab3%20Bouncy-house/image-20221013234642012.png)

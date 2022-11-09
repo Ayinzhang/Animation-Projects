@@ -12,4 +12,4 @@
 >
 > ![img](https://pic4.zhimg.com/80/v2-78fdf1120a1fee30e9452e5273c672a3_720w.jpg)
 >
-> ![image](https://github.com/1242857339/GAMES103-Simulation/Pool-ripples/blob/main/image-20221013235030265.png)
+> ![image](https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab4%20Pool-ripples/image-20221013235030265.png)
