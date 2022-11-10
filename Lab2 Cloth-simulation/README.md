@@ -16,4 +16,4 @@
 >
 > ![img](https://pic1.zhimg.com/80/v2-f7fdc2b6f77f88214cd7679a0b3d1608_720w.jpg)
 >
-> ![image](https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab2%20Cloth-simulation/image-20221013232356150.png)
+> ![img](https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab2%20Cloth-simulation/image-20221013232356150.png)
