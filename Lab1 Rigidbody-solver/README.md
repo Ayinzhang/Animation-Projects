@@ -20,4 +20,4 @@
 >
 > ![img](https://pic3.zhimg.com/80/v2-64ea5e71b309b051bfa2f00fff01de32_720w.jpg)
 >
-> ![image](https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab1%20Rigidbody-solver/image-20221013231307380.png)
+> ![img](https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab1%20Rigidbody-solver/image-20221013231307380.png)
