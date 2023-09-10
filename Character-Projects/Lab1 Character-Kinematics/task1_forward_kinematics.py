@@ -34,16 +34,10 @@ def part2_animation(viewer, bvh_file_path):
 
 
 def part3_retarget(viewer, T_pose_bvh_path, A_pose_bvh_path):
-    """
-    将 A-pose的bvh重定向到T-pose上
-    Tips:
-        我们不需要T-pose bvh的动作数据，只需要其定义的骨骼模型
-    """
     # T-pose的骨骼数据
     joint_name, joint_parent, joint_offset = part1_calculate_T_pose(T_pose_bvh_path)
     # A-pose的动作数据
     retarget_motion_data = part3_retarget_func(T_pose_bvh_path, A_pose_bvh_path)
-
     #播放和上面完全相同
     frame_num = retarget_motion_data.shape[0]
     class UpdateHandle:

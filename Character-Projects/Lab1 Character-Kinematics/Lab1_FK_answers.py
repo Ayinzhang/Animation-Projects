@@ -79,39 +79,3 @@ def part3_retarget_func(T_pose_bvh_path, A_pose_bvh_path):
                 line_data.append(amotion_data[i][cnt*3+3:cnt*3+6])
         motion_data.append(np.concatenate(line_data))
     return np.asarray(motion_data)
-'''
-    T_joint_name, _, _ = part1_calculate_T_pose(T_pose_bvh_path)
-    A_joint_name, _, _ = part1_calculate_T_pose(A_pose_bvh_path)
-    A_motion_data = load_motion_data(A_pose_bvh_path)
-
-    A_joint_map = {}
-    count = 0
-    for i in range(len(A_joint_name)):
-        if '_end' in A_joint_name[i]:
-            count += 1
-        A_joint_map[A_joint_name[i]] = i - count
-
-    motion_data = []
-    # for i in range(1): debug init pose. lShoulder add 0,0,-45, rShoulder add 0,0,45
-    for i in range(A_motion_data.shape[0]):
-        data = []
-        for joint in T_joint_name:
-            index = A_joint_map[joint]
-
-            if joint == 'RootJoint':
-                data += list(A_motion_data[i][0:6])
-            elif joint == 'lShoulder':
-                Rot = (R.from_euler('XYZ', list(A_motion_data[i][index * 3 + 3: index*3 + 6]), degrees=True) * R.from_euler('XYZ', [0., 0., -45.], degrees=True)).as_euler('XYZ',True)
-                data += list(Rot)
-            elif joint == 'rShoulder':
-                Rot = (R.from_euler('XYZ', list(A_motion_data[i][index * 3 + 3: index*3 + 6]), degrees=True) * R.from_euler('XYZ', [0., 0., 45.], degrees=True)).as_euler('XYZ',True)
-                data += list(Rot)
-            elif '_end' in joint:
-                continue
-            else:
-                data += list(A_motion_data[i][index * 3 + 3: index * 3 + 6])
-        motion_data.append(np.array(data).reshape(1, -1))
-
-    motion_data = np.concatenate(motion_data, axis=0)
-    return motion_data
-    '''
