@@ -1,4 +1,4 @@
-# Simulation-Projects
+# Simulation Projects
 
 *Lab1 刚体模拟 跳蛙法更新速度+冲量法模拟碰撞*
 

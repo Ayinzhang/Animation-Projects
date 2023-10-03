@@ -1,13 +1,3 @@
-'''
-在本任务中，我们会逐步实现一些动作处理的功能，包括
-1. 一小段动作的平移与旋转
-2. 动作的插值
-3. 动作的拼接混合 
-4. 动作的循环
-
-拿起纸笔和键盘(?)，开始动手吧！
-'''
-
 from Viewer.controller import SimpleViewer
 from answer_task1 import *
 import numpy as np
@@ -135,10 +125,10 @@ def main():
     # 请自行取消需要的注释并更改测试setting_id
     # 请不要同时取消多个注释，否则前者会被后者覆盖
     
-    part1_translation_and_rotation(viewer, 0) # 数字代表不同的测试setting
+    # part1_translation_and_rotation(viewer, 0) # 数字代表不同的测试setting
     # part2_interpolate(viewer, 1) # 数字代表不同期望的前进速度
     # part3_build_loop(viewer)
-    # part4_concatenate(viewer, 0) # 数字代表不同的测试setting
+    part4_concatenate(viewer, 0) # 数字代表不同的测试setting
     viewer.run()
     
 if __name__ == '__main__':
