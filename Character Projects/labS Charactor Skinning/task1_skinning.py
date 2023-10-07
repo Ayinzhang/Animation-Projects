@@ -42,9 +42,8 @@ def main():
     translations, orientations = bvh.batch_forward_kinematics()
     T_pose = bvh.get_T_pose()
     
-    # 请注释掉不需要的部分
-    part1_skinning_one_frame(viewer, translations, orientations, T_pose, skinning_weight, idx, value, frame_id=0)    
-    # part2_skinning_animation(viewer, translations, orientations, T_pose, skinning_weight, idx, value)
+    # part1_skinning_one_frame(viewer, translations, orientations, T_pose, skinning_weight, idx, value, frame_id=0)    
+    part2_skinning_animation(viewer, translations, orientations, T_pose, skinning_weight, idx, value)
     viewer.run()
     
 if __name__ == '__main__':
