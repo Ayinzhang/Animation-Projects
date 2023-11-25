@@ -1,4 +1,4 @@
-# Bouncy-house
+# Bouncy House
 
 **使用有限元和拉普拉斯平滑做的弹性体模拟**
 
@@ -9,9 +9,10 @@
 > 有限元方法
 >
 > <div align=center>
-> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Lab3%20Bouncy-house/show.jpg" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab3%20Bouncy%20House/show.jpg" width = "50%" height = "50%" />
 > </div> 
 >
+>
 > <div align=center>
-> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Lab3%20Bouncy-house/show1.png" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab3%20Bouncy%20House/show1.png" width = "50%" height = "50%" />
 > </div> 
