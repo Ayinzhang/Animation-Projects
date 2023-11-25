@@ -9,9 +9,9 @@
 > 有限元方法
 >
 > <div align=center>
-> <img src="https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab3%20Bouncy-house/show.jpg" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Lab3%20Bouncy-house/show.jpg" width = "50%" height = "50%" />
 > </div> 
 >
 > <div align=center>
-> <img src="https://github.com/1242857339/GAMES103-Simulation/blob/main/Lab3%20Bouncy-house/show1.png" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Lab3%20Bouncy-house/show1.png" width = "50%" height = "50%" />
 > </div> 

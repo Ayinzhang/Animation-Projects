@@ -9,16 +9,18 @@
 > 隐式积分
 >
 > <div align=center>
-> <img src="https://github.com/ayinzhang/GAMES103-simulation/blob/main/Lab2%20Cloth-simulation/show.jpg" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab2%20Cloth-simulation/show.jpg" width = "50%" height = "50%" />
 > </div> 
 >
+> 
 >
 > PBD
 >
 > <div align=center>
-> <img src="https://github.com/ayinzhang/GAMES103-simulation/blob/main/Lab2%20Cloth-simulation/show1.jpg" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab2%20Cloth-simulation/show1.jpg" width = "50%" height = "50%" />
 > </div> 
 >
+>
 > <div align=center>
-> <img src="https://github.com/ayinzhang/GAMES103-simulation/blob/main/Lab2%20Cloth-simulation/show2.png" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab2%20Cloth-simulation/show2.png" width = "50%" height = "50%" />
 > </div> 
