@@ -9,9 +9,10 @@
 > 浅水波模型
 >
 > <div align=center>
-> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab4%20Pool%20Ripples/show.jpg" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/blob/main/Simulation%20Projects/Lab4%20Pool%20Ripples/show.jpg" width = "50%" height = "50%" />
 > </div> 
 >
+>
 > <div align=center>
-> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab4%20Pool%20Ripples/show1.png" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/blob/main/Simulation%20Projects/Lab4%20Pool%20Ripples/show1.png" width = "50%" height = "50%" />
 > </div> 

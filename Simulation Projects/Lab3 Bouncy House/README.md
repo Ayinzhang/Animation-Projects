@@ -9,10 +9,9 @@
 > 有限元方法
 >
 > <div align=center>
-> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab3%20Bouncy%20House/show.jpg" width = "50%" height = "50%" />
+> <img src="https://github.com/ayinzhang/Animation-Projects/blob/main/Simulation%20Projects/Lab3%20Bouncy%20House/show.jpg" width = "50%" height = "50%" />
 > </div> 
 >
->
-> <div align=center>
-> <img src="https://github.com/ayinzhang/Animation-Projects/tree/main/Simulation%20Projects/Lab3%20Bouncy%20House/show1.png" width = "50%" height = "50%" />
+><div align=center>
+> <img src="https://github.com/ayinzhang/Animation-Projects/blob/main/Simulation%20Projects/Lab3%20Bouncy%20House/show1.png" width = "50%" height = "50%" />
 > </div> 
