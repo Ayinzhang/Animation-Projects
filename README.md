@@ -1,22 +1,24 @@
 # Animation-Projects
 
-### Part1 Character Projects(GAMES计算机角色动画基础)
+[中文版](README_zh.md)
 
-#### *Lab1 角色运动学 正向运动学 + 逆向运动学*
+### Part 1 Character Projects (GAMES' Fundamentals of Computer Character Animation)
 
-#### *Lab2 角色动画 动画拼接 + 动画插值过渡 + 可交互动画*
+#### *Lab1 Character Kinematics: Forward and Reverse Kinematics*
 
-#### *Lab3 角色控制 平衡站立*
+#### *Lab2 Character animation: Splicing, animation interpolation transition and interactive animation*
 
-#### *LabS 角色蒙皮 线性蒙皮*
+#### *Lab3 Character Control: Balance Standing*
 
-### Part2 Simulation Projects(GAMES基于物理的计算机动画入门)
+#### *LabS Character skinning: linear skinning*
 
-#### *Lab1 刚体模拟 跳蛙法更新速度+冲量法模拟碰撞*
+### Part 2 Simulation Projects (GAMES' Introduction to Physics based Computer Animation)
 
-#### *Lab2 布料模拟 隐式积分+PBD模拟布料*
+#### *Lab1 Rigid body simulation: Using jumping frog updates speed and impulse method simulates collisions*
 
-#### *Lab3 弹性体模拟 有限元+拉普拉斯平滑*
+#### *Lab2 Cloth simulation: Implicit integration and PBD cloth simulation*
 
-#### *Lab4 流体模拟 浅水波模型*
+#### *Lab3 Elastic Body Simulation: Finite element method and Laplace smoothing*
+
+#### *Lab4 Fluid Simulation: Shallow water wave model*
 
